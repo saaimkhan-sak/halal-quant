@@ -1,0 +1,200 @@
+﻿Symbol,Description,% Portfolio Weight,Shares Held,Market Value
+AAPL,Apple Inc,15.21%,406700,109700000
+MSFT,Microsoft Corp,14.22%,206300,102600000
+GOOGL,Alphabet Inc Class A,6.40%,162100,46200000
+GOOG,Alphabet Inc Class C,5.22%,131900,37600000
+META,Meta Platforms Inc Class A,5.22%,60900,37700000
+TSLA,Tesla Inc,4.82%,78000,34800000
+XOM,Exxon Mobil Corp,1.93%,121400,13900000
+JNJ,Johnson & Johnson,1.73%,66800,12500000
+AMD,Advanced Micro Devices Inc,1.49%,45100,10700000
+PG,Procter & Gamble Co,1.33%,65800,9600000
+CVX,Chevron Corp,1.14%,53800,8200000
+CSCO,Cisco Systems Inc,1.10%,111500,7900000
+MU,Micron Technology Inc,1.03%,31300,7500000
+CRM,Salesforce Inc,0.87%,26100,6200000
+MRK,Merck & Co Inc,0.84%,70600,6100000
+ABT,Abbott Laboratories,0.84%,48300,6000000
+TMO,Thermo Fisher Scientific Inc,0.83%,10600,6000000
+LRCX,Lam Research Corp,0.80%,35700,5800000
+ISRG,Intuitive Surgical Inc,0.76%,10000,5500000
+LIN,Linde PLC,0.76%,13100,5500000
+AMAT,Applied Materials Inc,0.73%,22500,5200000
+QCOM,Qualcomm Inc,0.72%,30100,5200000
+UBER,Uber Technologies Inc,0.70%,54500,5000000
+NOW,ServiceNow Inc,0.68%,5700,4900000
+T,AT&T Inc,0.67%,196400,4900000
+INTC,Intel Corp,0.63%,122500,4600000
+KLAC,KLA Corp,0.62%,3700,4500000
+TJX,TJX Companies Inc,0.62%,31300,4500000
+GILD,Gilead Sciences Inc,0.60%,34900,4300000
+GEV,GE Vernova Inc,0.58%,7700,4200000
+BSX,Boston Scientific Corp,0.56%,40800,4000000
+TXN,Texas Instruments Inc,0.56%,25200,4100000
+PFE,Pfizer Inc,0.55%,159100,4000000
+PANW,Palo Alto Networks Inc,0.54%,18300,3900000
+ADBE,Adobe Inc,0.54%,11900,3900000
+DHR,Danaher Corp,0.52%,17900,3800000
+WELL,Welltower Inc,0.49%,18700,3500000
+SYK,Stryker Corp,0.47%,9600,3400000
+MDT,Medtronic PLC,0.45%,35900,3200000
+ADI,Analog Devices Inc,0.45%,13900,3200000
+PLD,Prologis Inc,0.44%,25600,3200000
+MCK,McKesson Corp,0.42%,3500,3000000
+COP,ConocoPhillips,0.42%,35400,3000000
+VRTX,Vertex Pharmaceuticals Inc,0.40%,7000,2900000
+TT,Trane Technologies PLC Class A,0.38%,6200,2700000
+MMM,3M Co,0.34%,15000,2500000
+CDNS,Cadence Design Systems Inc,0.34%,7500,2400000
+NEM,Newmont Corp,0.34%,29600,2400000
+MRVL,Marvell Technology Inc,0.31%,24200,2300000
+JCI,Johnson Controls International PLC Regis...,0.31%,18500,2300000
+CRH,CRH PLC,0.30%,19000,2200000
+MDLZ,Mondelez International Inc Class A,0.28%,36200,2000000
+NKE,Nike Inc Class B,0.28%,32400,2000000
+EMR,Emerson Electric Co,0.28%,15500,2000000
+GLW,Corning Inc,0.27%,21900,1900000
+TEL,TE Connectivity PLC Registered Shares,0.27%,8100,2000000
+UPS,United Parcel Service Inc Class B,0.27%,20600,1900000
+VRT,Vertiv Holdings Co Class A,0.26%,10400,1900000
+REGN,Regeneron Pharmaceuticals Inc,0.26%,2900,1900000
+PWR,Quanta Services Inc,0.25%,4100,1800000
+MSI,Motorola Solutions Inc,0.25%,4700,1800000
+CTAS,Cintas Corp,0.25%,9600,1800000
+COR,Cencora Inc,0.25%,5100,1800000
+ADSK,Autodesk Inc,0.24%,6000,1800000
+ECL,Ecolab Inc,0.24%,7000,1800000
+CMI,Cummins Inc,0.24%,3800,1700000
+MSTR,Strategy Inc Class A,0.24%,7300,1700000
+MPC,Marathon Petroleum Corp,0.23%,8700,1700000
+IDXX,IDEXX Laboratories Inc,0.22%,2300,1600000
+PSX,Phillips 66,0.22%,11400,1600000
+SLB,SLB Ltd,0.22%,42700,1600000
+DLR,Digital Realty Trust Inc,0.22%,9400,1600000
+EOG,EOG Resources Inc,0.22%,15000,1600000
+WDC,Western Digital Corp,0.22%,9600,1600000
+VLO,Valero Energy Corp,0.21%,8700,1500000
+FDX,FedEx Corp,0.21%,5800,1500000
+EA,Electronic Arts Inc,0.20%,7100,1400000
+ROST,Ross Stores Inc,0.20%,9000,1400000
+PCAR,PACCAR Inc,0.20%,14400,1400000
+NXPI,NXP Semiconductors NV,0.20%,7100,1500000
+TTWO,Take-Two Interactive Software Inc,0.18%,5100,1300000
+MNST,Monster Beverage Corp,0.18%,19500,1300000
+ROP,Roper Technologies Inc,0.18%,3000,1300000
+FAST,Fastenal Co,0.18%,32100,1300000
+FERG,Ferguson Enterprises Inc,0.18%,5400,1300000
+EW,Edwards Lifesciences Corp,0.18%,16100,1300000
+BKR,Baker Hughes Co Class A,0.18%,27600,1300000
+CAH,Cardinal Health Inc,0.18%,6700,1300000
+CARR,Carrier Global Corp Ordinary Shares,0.18%,22400,1300000
+CTVA,Corteva Inc,0.17%,19200,1200000
+DELL,Dell Technologies Inc Ordinary Shares - ...,0.17%,8400,1300000
+GWW,W.W. Grainger Inc,0.17%,1300,1200000
+MPWR,Monolithic Power Systems Inc,0.17%,1300,1200000
+ROK,Rockwell Automation Inc,0.16%,3200,1200000
+CBRE,CBRE Group Inc Class A,0.16%,7900,1200000
+A,Agilent Technologies Inc,0.16%,8000,1200000
+DHI,D.R. Horton Inc,0.15%,7500,1100000
+EBAY,eBay Inc,0.14%,12800,1000000
+RMD,ResMed Inc,0.14%,4100,1000000
+MLM,Martin Marietta Materials Inc,0.14%,1700,1000000
+VMC,Vulcan Materials Co,0.14%,3700,1000000
+XYL,Xylem Inc,0.14%,6600,997800
+GRMN,Garmin Ltd,0.13%,4600,933000
+WAB,Westinghouse Air Brake Technologies Corp,0.13%,4700,965100
+KDP,Keurig Dr Pepper Inc,0.13%,36400,959200
+NUE,Nucor Corp,0.13%,6400,929600
+GEHC,GE HealthCare Technologies Inc Common St...,0.13%,12600,936500
+KVUE,Kenvue Inc,0.12%,52500,864500
+IR,Ingersoll Rand Inc,0.12%,11300,877300
+HPE,Hewlett Packard Enterprise Co,0.12%,36700,859000
+MCHP,Microchip Technology Inc,0.12%,15200,901800
+LEN,Lennar Corp Class A,0.11%,6400,768900
+OXY,Occidental Petroleum Corp,0.11%,20300,816400
+ATO,Atmos Energy Corp,0.11%,4400,766000
+TER,Teradyne Inc,0.11%,4400,818000
+TSCO,Tractor Supply Co,0.11%,14900,790300
+STE,Steris PLC,0.10%,2700,712600
+ADM,Archer-Daniels-Midland Co,0.10%,13300,755500
+HPQ,HP Inc,0.10%,26400,691100
+FSLR,First Solar Inc,0.10%,2800,755800
+ODFL,Old Dominion Freight Line Inc Ordinary S...,0.10%,5200,716800
+HUBB,Hubbell Inc,0.10%,1500,690800
+PODD,Insulet Corp,0.09%,2000,634800
+PHM,PulteGroup Inc,0.09%,5600,664100
+HAL,Halliburton Co,0.09%,23400,640000
+HSY,The Hershey Co,0.09%,4100,681300
+DOV,Dover Corp,0.09%,3800,675900
+BIIB,Biogen Inc,0.09%,4100,640100
+EXE,Expand Energy Corp Ordinary Shares - New,0.09%,6100,679400
+FLEX,Flex Ltd,0.09%,10500,662800
+WAT,Waters Corp,0.09%,1700,616100
+ULTA,Ulta Beauty Inc,0.09%,1300,640400
+VLTO,Veralto Corp,0.09%,6700,656500
+WSM,Williams-Sonoma Inc,0.09%,3300,633900
+TYL,Tyler Technologies Inc,0.08%,1200,552000
+WST,West Pharmaceutical Services Inc,0.08%,2000,551200
+TPL,Texas Pacific Land Corp,0.08%,536,542000
+STLD,Steel Dynamics Inc,0.08%,3800,579600
+SMCI,Super Micro Computer Inc,0.08%,14400,582400
+CHD,Church & Dwight Co Inc,0.08%,6900,593300
+DVN,Devon Energy Corp,0.08%,17400,564600
+DLTR,Dollar Tree Inc,0.08%,5700,578200
+Q,Qnity Electronics Inc,0.08%,5900,546600
+ON,ON Semiconductor Corp,0.08%,11800,575700
+PPG,PPG Industries Inc,0.08%,6400,605400
+PTC,PTC Inc,0.08%,3300,578500
+NVR,NVR Inc,0.08%,77,554000
+LH,Labcorp Holdings Inc,0.08%,2300,574200
+FWONK,Liberty Media Corp Registered Shs Series...,0.08%,5900,605900
+EL,The Estee Lauder Companies Inc Class A,0.08%,6500,573700
+IP,International Paper Co,0.07%,14700,536000
+LULU,Lululemon Athletica Inc,0.07%,2900,481800
+J,Jacobs Solutions Inc,0.07%,3400,516200
+ILMN,Illumina Inc,0.07%,4400,532300
+PKG,Packaging Corp of America,0.07%,2500,489500
+EXPD,Expeditors International of Washington I...,0.07%,3800,516100
+IT,Gartner Inc,0.07%,2100,471400
+GPC,Genuine Parts Co,0.07%,3900,485500
+FTV,Fortive Corp,0.07%,9500,485000
+BURL,Burlington Stores Inc,0.07%,1800,471500
+--,US DOLLARS,0.07%,512600,512600
+SNA,Snap-on Inc,0.07%,1400,489200
+TRMB,Trimble Inc,0.07%,6600,523000
+TWLO,Twilio Inc Class A,0.07%,4000,504300
+APTV,Aptiv PLC,0.07%,6100,501500
+ZBH,Zimmer Biomet Holdings Inc,0.07%,5500,490200
+PNR,Pentair PLC,0.07%,4600,487800
+SW,Smurfit WestRock PLC,0.07%,13800,493200
+ALLE,Allegion PLC,0.06%,2400,397800
+SUI,Sun Communities Inc,0.06%,3500,435600
+WY,Weyerhaeuser Co,0.06%,20300,463200
+FFIV,F5 Inc,0.06%,1600,398900
+DOW,Dow Inc,0.06%,19800,440200
+DD,DuPont de Nemours Inc,0.06%,11700,458600
+ROL,Rollins Inc,0.06%,7900,460600
+HOLX,Hologic Inc,0.06%,6200,462900
+IFF,International Flavors & Fragrances Inc,0.06%,7200,450800
+MKC,McCormick & Co Inc Ordinary Shares (Non ...,0.06%,7100,453400
+JBHT,JB Hunt Transport Services Inc,0.05%,2200,372900
+IEX,IDEX Corp,0.05%,2100,352200
+OMC,Omnicom Group Inc,0.05%,5400,394800
+OKTA,Okta Inc Class A,0.05%,4500,390300
+DOCU,Docusign Inc,0.05%,5600,389700
+CF,CF Industries Holdings Inc,0.05%,4500,363000
+COO,The Cooper Companies Inc,0.05%,5400,376000
+ZBRA,Zebra Technologies Corp Ordinary Shares ...,0.05%,1400,363900
+LYB,LyondellBasell Industries NV Class A,0.04%,7200,303900
+SCCO,Southern Copper Corp,0.04%,2300,312200
+ALGN,Align Technology Inc,0.04%,1900,256400
+DAL,Delta Air Lines Inc,0.04%,4600,264400
+NWSA,News Corp Class A,0.04%,10600,265600
+UAL,United Airlines Holdings Inc,0.03%,2300,218000
+LUV,Southwest Airlines Co,0.02%,3600,114800
+RAL,Ralliant Corp,0.02%,3200,148100
+NWS,News Corp Class B,0.01%,3100,89000
+FWONA,Liberty Media Corp A,0.01%,631,59100
+--,DEPOSITS WITH BROKER FOR SHORT POSITIONS,0.01%,105400,105400
+UI,Ubiquiti Inc,0.01%,115,87400
+GFS,GLOBALFOUNDRIES Inc,0.01%,2800,95600

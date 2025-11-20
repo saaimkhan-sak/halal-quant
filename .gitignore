@@ -1,0 +1,19 @@
+# Virtual env
+.venv/
+__pycache__/
+*.pyc
+
+# Large derived data
+data/derived/features_daily.csv
+data/derived/features_with_sentiment.csv
+data/derived/features_with_sentiment_tminus1.csv
+data/derived/price_panel.csv
+
+# Raw market data (optional, if big)
+data/market/
+
+# Models (optional if big)
+models/
+
+# Other caches
+*.log

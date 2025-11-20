@@ -1,0 +1,97 @@
+﻿Symbol,Description,% Portfolio Weight,Shares Held,Market Value
+AAPL,Apple Inc,11.58%,34700,9400000
+TSM,Taiwan Semiconductor Manufacturing Co Lt...,11.16%,31200,9000000
+NVDA,NVIDIA Corp,11.01%,47400,8900000
+MSFT,Microsoft Corp,10.49%,17100,8500000
+--,ASML Holding NV,6.40%,5000,5200000
+AVGO,Broadcom Inc,4.93%,11200,4000000
+SAP,SAP SE ADR,4.21%,13400,3400000
+--,MediaTek Inc,3.61%,70000,2900000
+--,Delta Electronics Inc,3.26%,83400,2600000
+ATEYY,Advantest Corp ADR,1.64%,9900,1300000
+TOELY,Tokyo Electron Ltd ADR,1.61%,12300,1300000
+XIACY,Xiaomi Corp ADR,1.53%,44800,1200000
+ORCL,Oracle Corp,1.39%,4600,1100000
+AMD,Advanced Micro Devices Inc,1.33%,4500,1100000
+--,Keyence Corp,1.17%,2600,949100
+--,DEPOSITS WITH BROKER FOR SHORT POSITIONS,1.05%,414800000,852300
+CSCO,Cisco Systems Inc,0.97%,11100,785400
+MU,Micron Technology Inc,0.92%,3100,740500
+UMC,United Microelectronics Corp ADR,0.92%,101500,742000
+IFNNY,Infineon Technologies AG ADR,0.83%,17200,670700
+--,CGI Inc Class A,0.78%,7400,627500
+--,Constellation Software Inc,0.77%,260,624300
+CRM,Salesforce Inc,0.77%,2600,625500
+LRCX,Lam Research Corp,0.72%,3600,580600
+FJTSY,Fujitsu Ltd ADR,0.71%,22600,576100
+MRAAY,Murata Manufacturing Co Ltd ADR,0.67%,49900,538100
+QCOM,Qualcomm Inc,0.64%,3000,518600
+AMAT,Applied Materials Inc,0.63%,2200,509800
+NOW,ServiceNow Inc,0.60%,567,486900
+NOK,Nokia Oyj ADR,0.56%,66100,456800
+KLAC,KLA Corp,0.53%,353,425900
+--,TDK Corp,0.53%,25600,428100
+DSCSY,Disco Corp ADR,0.49%,12300,395900
+TXN,Texas Instruments Inc,0.49%,2500,397600
+PANW,Palo Alto Networks Inc,0.48%,1800,390000
+--,ASM International NV,0.47%,606,380300
+ANET,Arista Networks Inc,0.47%,2800,377400
+ERIC,Telefonaktiebolaget L M Ericsson ADR,0.46%,38100,370800
+CRWD,CrowdStrike Holdings Inc Class A,0.45%,691,368000
+FUJIY,FUJIFILM Holdings Corp ADR,0.44%,32600,358700
+HXGBY,Hexagon AB ADR,0.42%,27700,337400
+CAJPY,Canon Inc ADR,0.41%,11800,332600
+ADI,Analog Devices Inc,0.39%,1400,316300
+CGEMY,Capgemini SE ADR,0.36%,10200,292500
+DASTY,Dassault Systemes SE ADR,0.30%,9000,239900
+KYOCY,Kyocera Corp ADR,0.30%,18500,240500
+CDNS,Cadence Design Systems Inc,0.29%,723,234600
+--,Logitech International SA,0.29%,2000,233300
+HALMY,Halma PLC ADR,0.28%,2400,224000
+NRILY,Nomura Research Institute Ltd ADR,0.27%,5600,216100
+--,Xero Ltd,0.26%,2200,210400
+--,STMicroelectronics NV,0.25%,8700,205100
+LSRCY,Lasertec Corp ADR,0.25%,5400,204600
+GLW,Corning Inc,0.24%,2200,190600
+SGPYY,Sage Group (The) PLC ADR,0.24%,3200,190300
+SNPS,Synopsys Inc,0.24%,499,197700
+TEL,TE Connectivity PLC Registered Shares,0.24%,815,197600
+ADSK,Autodesk Inc,0.22%,600,176900
+STX,Seagate Technology Holdings PLC,0.20%,594,165400
+--,BE Semiconductor Industries NV,0.19%,965,153400
+FTNT,Fortinet Inc,0.18%,1800,142600
+NXPI,NXP Semiconductors NV,0.18%,709,146400
+WDAY,Workday Inc Class A,0.17%,597,134000
+ROP,Roper Technologies Inc,0.16%,300,133300
+MPWR,Monolithic Power Systems Inc,0.16%,133,127400
+--,WiseTech Global Ltd,0.16%,2900,127600
+--,OBIC Co Ltd,0.15%,4000,124900
+--,Screen Holdings Co Ltd,0.12%,1200,99400
+--,Technology One Ltd,0.12%,4200,98900
+CTSH,Cognizant Technology Solutions Corp Clas...,0.12%,1400,100900
+FICO,Fair Isaac Corp,0.12%,57,95500
+FSLR,First Solar Inc,0.11%,313,85100
+MCHP,Microchip Technology Inc,0.11%,1500,88700
+TER,Teradyne Inc,0.10%,428,79200
+TMSNY,Temenos AG ADR,0.09%,796,71300
+JBL,Jabil Inc,0.09%,328,70500
+NTAP,NetApp Inc,0.08%,569,64700
+OMRNY,OMRON Corp ADR,0.08%,2300,64000
+ON,ON Semiconductor Corp,0.07%,1200,60500
+PTC,PTC Inc,0.07%,325,56500
+GDDY,GoDaddy Inc Class A,0.07%,401,53300
+VRSN,VeriSign Inc,0.07%,235,56300
+SMCI,Super Micro Computer Inc,0.07%,1400,57400
+TRMB,Trimble Inc,0.06%,618,48700
+TYL,Tyler Technologies Inc,0.06%,109,50700
+IT,Gartner Inc,0.06%,220,49800
+CDW,CDW Corp,0.06%,353,50000
+--,JAPANESE YEN,0.05%,5800000,38000
+FFIV,F5 Inc,0.05%,153,38000
+AKAM,Akamai Technologies Inc,0.04%,410,29900
+SWKS,Skyworks Solutions Inc,0.04%,415,29300
+ZBRA,Zebra Technologies Corp Ordinary Shares ...,0.03%,103,26600
+EPAM,EPAM Systems Inc,0.03%,144,24200
+--,CANADIAN DOLLAR,0.01%,10900,7700
+--,EURO,0.01%,6700,7700
+--,US DOLLARS,0.0047,382800,382800

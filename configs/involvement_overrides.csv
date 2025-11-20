@@ -1,0 +1,5 @@
+ticker,estimated_impure_pct,alcohol,pork,gambling,pornography,tobacco_vaping,recreational_cannabis,impermissible_advertising,impermissible_media,deferred_gold_silver,conventional_finance,is_fully_islamic
+AAPL,0,false,false,false,false,false,false,false,false,false,false
+MSFT,0,false,false,false,false,false,false,false,false,false,false
+NVDA,0,false,false,false,false,false,false,false,false,false,false
+GOOGL,0,false,false,false,false,false,false,false,false,false,false

@@ -1,0 +1,6 @@
+ticker,total_assets,total_debt,cash,accounts_receivable,total_revenue,impure_income
+AAPL,100,25,20,10,50,1.5
+MSFT,100,20,30,15,60,2.0
+NVDA,100,5,10,8,70,1.0
+GOOGL,100,10,15,20,65,1.0
+AMZN,100,40,12,15,80,3.0

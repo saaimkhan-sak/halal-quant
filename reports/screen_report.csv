@@ -1,0 +1,5 @@
+ticker,status,reason
+AAPL,pass,pass 3/3 (ratio=0.0339)
+MSFT,pass,pass 3/3 (ratio=0.0149)
+NVDA,pass,pass 3/3 (ratio=0.0037)
+GOOGL,pass,pass 3/3 (ratio=0.0149)

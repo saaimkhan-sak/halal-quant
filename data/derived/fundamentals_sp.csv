@@ -1,0 +1,460 @@
+ticker,total_debt,shares_outstanding,is_fully_islamic,non_permissible_revenue,total_revenue,alcohol,pork,gambling,pornography,tobacco_vaping,recreational_cannabis,impermissible_advertising,impermissible_media,deferred_gold_silver,conventional_finance,sector
+A,12231000000.0,283500427.0,False,0.0,6510000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+AAPL,358694000000.0,14776353000.0,False,0.0,416161000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ABBV,263052000000.0,1767384632.0,False,0.0,56334000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+ABT,50676000000.0,1738871947.0,False,0.0,41950000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+ACN,21514385000.0,620138892.0,False,0.0,69672977000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ADBE,,418600000.0,False,0.0,21505000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ADDYY,14014000000.0,357098168.0,False,0.0,23683000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+ADI,28471666000.0,491955436.0,False,0.0,9427157000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ADM,42779000000.0,480569735.0,False,0.0,85530000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+ADSK,8093000000.0,213000000.0,False,0.0,6131000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+AEM,3923845000.0,502046562.0,False,0.0,8285753000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+AHCHY,86431841705.0,259920000.0,False,0.0,91029615303.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+AIQUY,45059900000.0,2889879740.0,False,0.0,27057800000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+AJINY,1656636000000.0,969514670.0,False,0.0,1530556000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+AKAM,15843125000.0,143865237.0,False,0.0,3991168000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ALB,13071458000.0,117697540.0,False,0.0,5377526000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+ALC,17874000000.0,491200000.0,False,0.0,9911000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+ALFVY,40923000000.0,413326315.0,False,0.0,66953000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+ALGN,238554000.0,71749995.0,False,0.0,3999012000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+ALLE,7494200000.0,86031953.0,False,0.0,3772200000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+ALPMY,3137332000000.0,1791215714.0,False,0.0,1912323000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+AMADY,12042300000.0,430887590.0,False,0.0,6141700000.0,False,False,False,False,False,False,False,False,False,False,Technology
+AMAT,,796642427.0,False,0.0,27176000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+AMD,,1628041540.0,False,0.0,25785000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ANET,,1259285070.0,False,0.0,7003146000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ANPDY,86482000000.0,110819983.0,False,0.0,70826000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+AOS,626600000.0,113372121.0,False,0.0,3818100000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+APTV,32907000000.0,216079411.0,False,0.0,19713000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+ARM,712000000.0,1060998569.0,False,0.0,4007000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ASAZY,276392000000.0,2106500730.0,False,0.0,150162000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+ASBFY,7969000000.0,711141187.0,False,0.0,20073000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+ASCCY,,716696411.0,False,0.0,678526000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+ASR,,27705000.0,False,0.0,31332787000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+ATDRY,,3446516512.0,False,0.0,601100000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+ATEYY,261961000000.0,727392176.0,False,0.0,779707000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ATLCY,105556000000.0,1560876032.0,False,0.0,176771000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+ATLKY,105556000000.0,3308419482.0,False,0.0,176771000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+ATO,31691836000.0,160523571.0,False,0.0,4165187000.0,False,False,False,False,False,False,False,False,False,False,Utilities
+AVB,32546984000.0,141594945.0,False,0.0,2913757000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+AVGO,260838000000.0,4722365022.0,False,0.0,51574000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+AVY,12279700000.0,77295394.0,False,0.0,8755700000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+AZN,112064000000.0,3100541128.0,False,0.0,54073000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+AZO,41905339000.0,16632663.0,False,0.0,18938717000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+BABA,812139000000.0,2385996266.0,False,0.0,996347000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+BBY,,210101265.0,False,0.0,41528000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+BDNNY,58076000000.0,141977727.0,False,0.0,89207000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+BDRFY,258000000.0,1106895900.0,False,0.0,9850000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+BHP,80229000000.0,2539105827.0,False,0.0,51262000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+BIIB,23477200000.0,146702272.0,False,0.0,9675900000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+BKNG,51194000000.0,32233815.0,False,0.0,23739000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+BKR,20728000000.0,986773882.0,False,0.0,27829000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+BLDR,15920252000.0,110580581.0,False,0.0,16400492000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+BRDCY,1833823000000.0,1305526978.0,False,0.0,4430096000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+BSX,43120000000.0,1482442039.0,False,0.0,16747000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+BURL,13169970000.0,63035016.0,False,0.0,10634823000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+BXBLY,8712100000.0,681436806.0,False,0.0,6545400000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+BYDDY,,3683400000.0,False,0.0,777102455000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+BZ,604254000.0,398688012.0,False,0.0,7355677000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+CAH,30234000000.0,237595042.0,False,0.0,222578000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+CAJPY,1872245000000.0,878625682.0,False,0.0,4509821000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+CARR,46007000000.0,842209781.0,False,0.0,22486000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+CBRE,18648000000.0,297592997.0,False,0.0,35767000000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+CDNS,,272201000.0,False,0.0,4641264000.0,False,False,False,False,False,False,False,False,False,False,Technology
+CDW,23165900000.0,130193660.0,False,0.0,20998700000.0,False,False,False,False,False,False,False,False,False,False,Technology
+CEG,30626000000.0,312290080.0,False,0.0,23568000000.0,False,False,False,False,False,False,False,False,False,False,Utilities
+CF,,155974644.0,False,0.0,5936000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+CFRUY,35710000000.0,5341820890.0,False,0.0,21399000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+CGEMY,19653000000.0,828140555.0,False,0.0,22096000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+CHD,,240130071.0,False,0.0,6107100000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+CHEOY,,130796924.0,False,0.0,2343100000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+CHGCY,0.0,3291406654.0,False,0.0,1170611000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+CHRW,6091800000.0,118137178.0,False,0.0,17724956000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+CHT,118798000000.0,775744655.0,False,0.0,228575000000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+CL,31826000000.0,806064942.0,False,0.0,20101000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+CLCGY,7572572000.0,117247930.0,False,0.0,45437640000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+CLPBY,87754000000.0,2073667960.0,False,0.0,27030000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+CLS,2763500000.0,115036621.0,False,0.0,9646000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+CLX,10569000000.0,121980379.0,False,0.0,7104000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+CMI,27643000000.0,138036253.0,False,0.0,34102000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+CMPGY,20391000000.0,1697131467.0,False,0.0,42002000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+CMSQY,6153883000.0,578387070.0,False,0.0,3114621000.0,False,False,False,False,False,False,False,False,False,True,Financial Services
+CNQ,75145000000.0,2083107000.0,False,0.0,41509000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+COO,10220200000.0,198808921.0,False,0.0,3895400000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+COP,89809000000.0,1235718250.0,False,0.0,54745000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+CP,90485000000.0,900831248.0,False,0.0,14546000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+CPRT,,967834374.0,False,0.0,4646958000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+CPT,,106395330.0,False,0.0,1543842000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+CRH,54830000000.0,669732032.0,False,0.0,35572000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+CRL,,49215471.0,False,0.0,4049989000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+CRM,,952000000.0,False,0.0,37895000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+CRWD,2321785000.0,250955140.0,False,0.0,3953624000.0,False,False,False,False,False,False,False,False,False,False,Technology
+CSCO,104026000000.0,3940724908.0,False,0.0,56654000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+CSLLY,40511000000.0,970302788.0,False,0.0,15430000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+CSUAY,116705000000.0,844370500.0,False,0.0,338375000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+CSX,74051000000.0,1862136956.0,False,0.0,14540000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+CTAS,,401866678.0,False,0.0,10340181000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+CTRA,,761377552.0,False,0.0,5458000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+CTSH,3868000000.0,482646473.0,False,0.0,19736000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+CTVA,8109000000.0,675732000.0,False,0.0,16908000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+CVE,33589000000.0,1745535223.0,False,0.0,57726000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+CVX,90175000000.0,1999353597.0,False,0.0,193414000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+DAL,74861000000.0,652962768.0,False,0.0,61643000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+DASH,,406334617.0,False,0.0,10722000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+DASTY,,1316411035.0,False,0.0,6213600000.0,False,False,False,False,False,False,False,False,False,False,Technology
+DD,26834000000.0,418975324.0,False,0.0,12386000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+DECK,553950000.0,145744833.0,False,0.0,4985612000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+DELL,94635000000.0,338646945.0,False,0.0,95567000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+DFKCY,211848000000.0,735400972.0,False,0.0,611477000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+DHR,64224000000.0,706349563.0,False,0.0,23875000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+DIFTY,372572000000.0,1325430160.0,False,0.0,1842356000000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+DLR,65575055000.0,343501552.0,False,0.0,5554968000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+DLTR,21267100000.0,203967842.0,False,0.0,17578500000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+DNPLY,513525000000.0,898501014.0,False,0.0,1457609000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+DNZOY,,2704027648.0,False,0.0,7161777000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+DOCU,,201104117.0,False,0.0,2976739000.0,False,False,False,False,False,False,False,False,False,False,Technology
+DOV,10321833000.0,137153223.0,False,0.0,7745909000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+DOW,63909000000.0,710767392.0,False,0.0,42964000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+DQJCY,1521976000000.0,1493339798.0,False,0.0,2246758000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+DSCSY,0.0,1084305510.0,False,0.0,393313000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+DSNKY,303996000000.0,1851049073.0,False,0.0,1886256000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+DVN,35326000000.0,627300000.0,False,0.0,15940000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+DXCM,9451500000.0,390016272.0,False,0.0,4033000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+EA,5786000000.0,249404562.0,False,0.0,7463000000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+EBAY,28143000000.0,452000000.0,False,0.0,10283000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+ECL,30438400000.0,283235653.0,False,0.0,15741400000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+EDU,1621955000.0,159145747.0,False,0.0,4900262000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+EFX,19872100000.0,122394037.0,False,0.0,5681100000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+EGP,6080031000.0,53348644.0,False,0.0,640234000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+EL,30647000000.0,245852896.0,False,0.0,14326000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+ELS,12812968000.0,193828480.0,False,0.0,1433300000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+EMR,52206000000.0,561800000.0,False,0.0,18016000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+EOG,,542598457.0,False,0.0,23378000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+EPAM,,55242618.0,False,0.0,4727940000.0,False,False,False,False,False,False,False,False,False,False,Technology
+EQIX,65263000000.0,98186078.0,False,0.0,8748000000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+EQR,33034472000.0,380474721.0,False,0.0,2980108000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+ERIC,,3071530678.0,False,0.0,247880000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ESLOY,43319000000.0,926087406.0,False,0.0,26508000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+EW,1997700000.0,580300000.0,False,0.0,5439500000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+EXE,22545000000.0,238169697.0,False,0.0,4221000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+EXPD,1137874000.0,134020931.0,False,0.0,10600515000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+EXPGY,19424000000.0,913226027.0,False,0.0,7523000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+FANUY,0.0,1866319584.0,False,0.0,797129000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+FAST,,1148035721.0,False,0.0,7546000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+FCX,33449000000.0,1435930660.0,False,0.0,25455000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+FDX,110488000000.0,235955461.0,False,0.0,87926000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+FERG,19562000000.0,0.0,False,0.0,30762000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+FICO,12127002000.0,23709047.0,False,0.0,1990869000.0,False,False,False,False,False,False,False,False,False,False,Technology
+FJTSY,,1772432855.0,False,0.0,3550116000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+FLEX,13391000000.0,369790328.0,False,0.0,25813000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+FRCOY,,3068191790.0,False,0.0,3103836000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+FSLR,2047382000.0,107308141.0,False,0.0,4206289000.0,False,False,False,False,False,False,False,False,False,False,Technology
+FSUGY,16220000000.0,1539482459.0,False,0.0,15420000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+FSV,5502318000.0,45712236.0,False,0.0,5216894000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+FTNT,2982900000.0,743648102.0,False,0.0,5955800000.0,False,False,False,False,False,False,False,False,False,False,Technology
+FTV,14355100000.0,317611636.0,False,0.0,6231800000.0,False,False,False,False,False,False,False,False,False,False,Technology
+FUJHY,1198500000000.0,1442864846.0,False,0.0,4685763000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+FUJIY,2804275000000.0,2410404570.0,False,0.0,3195828000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+FWONA,9337000000.0,23990946.0,False,0.0,3653000000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+FWONK,9337000000.0,223634694.0,False,0.0,3653000000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+GBERY,4979300000.0,329623480.0,False,0.0,3085500000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+GDDY,14290400000.0,135141594.0,False,0.0,4573200000.0,False,False,False,False,False,False,False,False,False,False,Technology
+GEHC,33780000000.0,455521592.0,False,0.0,19672000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+GEV,2404000000.0,271320459.0,False,0.0,34935000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+GFI,10022600000.0,895024247.0,False,0.0,5201600000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+GFS,,555681705.0,False,0.0,6750000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+GILD,96853000000.0,1240679623.0,False,0.0,28754000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+GLW,28836000000.0,857360396.0,False,0.0,13118000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+GNRC,5205931000.0,58684066.0,False,0.0,4295834000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+GOOG,61805000000.0,5407000000.0,False,0.0,350018000000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+GOOGL,61805000000.0,5818000000.0,False,0.0,350018000000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+GPC,19574171000.0,139110500.0,False,0.0,23486569000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+GRMN,269772000.0,192334806.0,False,0.0,6296903000.0,False,False,False,False,False,False,False,False,False,False,Technology
+GSK,62047000000.0,2009000265.0,False,0.0,31376000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+GVDNY,17409000000.0,461459850.0,False,0.0,7412000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+GWLLY,200074452633.26,855745255.0,False,0.0,199614004631.17,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+GWW,10886000000.0,47549337.0,False,0.0,17168000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+HAL,29668000000.0,841626610.0,False,0.0,22944000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+HALMY,2863600000.0,188850837.0,False,0.0,2248100000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+HD,229687000000.0,995386647.0,False,0.0,159514000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+HENKY,12841000000.0,1026020688.0,False,0.0,21586000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+HESAY,4409000000.0,1048363650.0,False,0.0,15170000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+HLN,37967000000.0,4452936617.0,False,0.0,11233000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+HLTOY,3432600000.0,807706254.0,False,0.0,3590800000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+HNNMY,,7044956875.0,False,0.0,234478000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+HOCPY,111849000000.0,338371324.0,False,0.0,885815000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+HPE,61278000000.0,1319450062.0,False,0.0,30127000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+HPQ,37898000000.0,934701851.0,False,0.0,53559000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+HSHCY,112367752878.44,1563625274.0,False,0.0,285981225203.93,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+HSIC,10690000000.0,117724807.0,False,0.0,12673000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+HSY,20221060000.0,148171608.0,False,0.0,11202263000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+HTHIY,3958222000000.0,4531189651.0,False,0.0,9783370000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+HTHT,,307668117.0,False,0.0,23891000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+HUBB,6246300000.0,53144752.0,False,0.0,5628500000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+HXGBY,14402800000.0,2574127888.0,False,0.0,5401100000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ICLR,13519591000.0,76359932.0,False,0.0,8281676000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+IDEXY,11825000000.0,12465467072.0,False,0.0,38632000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+IDXX,3420776000.0,79851330.0,False,0.0,3897504000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+IEX,7272200000.0,74849436.0,False,0.0,3268800000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+IFF,36671000000.0,256096379.0,False,0.0,11484000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+IFNNY,18152000000.0,1299391231.0,False,0.0,14955000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+IKTSY,3627400000.0,153996854.0,False,0.0,3393200000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+ILMN,8095000000.0,152800000.0,False,0.0,4372000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+IMO,14263000000.0,496861000.0,False,0.0,48824000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+IMPUY,10696000000.0,896994543.0,False,0.0,85459000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+INCY,87088000.0,196322703.0,False,0.0,4241217000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+INFY,1924000000.0,4145309946.0,False,0.0,19277000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+INTC,191795000000.0,4770000000.0,False,0.0,53101000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+IP,21658000000.0,528038317.0,False,0.0,18619000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+IR,17601400000.0,395110395.0,False,0.0,7235000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+ISRG,,354496073.0,False,0.0,8352100000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+IT,,72077145.0,False,0.0,6267411000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ITW,30934000000.0,290100000.0,False,0.0,15898000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+J,8808249000.0,119536469.0,False,0.0,11500941000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+JBHT,5863825000.0,95218346.0,False,0.0,12087204000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+JBL,10569000000.0,106837337.0,False,0.0,29802000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+JCI,37366000000.0,654385440.0,False,0.0,22952000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+JD,243592000000.0,1418000000.0,False,0.0,1158819000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+JHX,4086300000.0,579252286.0,False,0.0,3877500000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+JNJ,122431000000.0,2409295102.0,False,0.0,88821000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+K,23476000000.0,347932629.0,False,0.0,12749000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+KAOOY,621715000000.0,2269821845.0,False,0.0,1628448000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+KDP,65146000000.0,1358583125.0,False,0.0,15351000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+KGSPY,9781000000.0,180857973.0,False,0.0,8608000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+KHNGY,4909000000.0,593653600.0,False,0.0,24802000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+KLAC,,131392338.0,False,0.0,12156162000.0,False,False,False,False,False,False,False,False,False,False,Technology
+KMB,29013000000.0,331858421.0,False,0.0,20058000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+KNYJY,2076600000.0,883299820.0,False,0.0,11098400000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+KOF,274433000000.0,210083226.0,False,0.0,279793000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+KRYAY,12295200000.0,161690323.0,False,0.0,6929100000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+KVUE,33356000000.0,1915802170.0,False,0.0,15455000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+KYOCY,931727000000.0,1369522520.0,False,0.0,2014454000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+LEN,,223803530.0,False,0.0,35441452000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+LGRDY,17631800000.0,1310822535.0,False,0.0,8648900000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+LH,25689900000.0,82900000.0,False,0.0,13008900000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+LII,4748500000.0,35072782.0,False,0.0,5341300000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+LIN,83614000000.0,466948930.0,False,0.0,33005000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+LLY,131308400000.0,895018757.0,False,0.0,45042700000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+LNNGY,3872274000.0,103000858.0,False,0.0,28675643000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+LOW,148569000000.0,560824905.0,False,0.0,83674000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+LRCX,,1256030000.0,False,0.0,18435591000.0,False,False,False,False,False,False,False,False,False,False,Technology
+LRLCY,26074500000.0,2668915120.0,False,0.0,43486800000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+LSRCY,,450563130.0,False,0.0,251477000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+LULU,3151582000.0,113468082.0,False,0.0,10588126000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+LUV,22815000000.0,517155080.0,False,0.0,27483000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+LYB,44769000000.0,321872964.0,False,0.0,40302000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+LZAGY,18549000000.0,701455510.0,False,0.0,6574000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+MAA,19932992000.0,117081742.0,False,0.0,2191015000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+MAS,11690000000.0,207695621.0,False,0.0,7828000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+MCHP,,540446834.0,False,0.0,4401600000.0,False,False,False,False,False,False,False,False,False,False,Technology
+MCK,,123426650.0,False,0.0,359051000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+MDLZ,70891000000.0,1290358492.0,False,0.0,36441000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+MDT,111730000000.0,1282616011.0,False,0.0,33537000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+META,126946000000.0,2177889269.0,False,0.0,164501000000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+MHGVY,9388100000.0,527290596.0,False,0.0,5566400000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+MHK,9063600000.0,61821362.0,False,0.0,10836900000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+MIELY,721322000000.0,1023174282.0,False,0.0,5521711000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+MKC,17514700000.0,253239902.0,False,0.0,6723700000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+MKKGY,37411000000.0,646211260.0,False,0.0,21156000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+MKTAY,,264511045.0,False,0.0,753130000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+MLM,21764000000.0,60307143.0,False,0.0,6536000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+MMM,47806000000.0,531225048.0,False,0.0,24575000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+MMYT,694360000.0,89851697.0,False,0.0,978336000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+MNST,1121853000.0,977021216.0,False,0.0,7492709000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+MPC,109268000000.0,300602479.0,False,0.0,138864000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+MPNGY,,2763714394.0,False,0.0,337591576000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+MPWR,,47907000.0,False,0.0,2207100000.0,False,False,False,False,False,False,False,False,False,False,Technology
+MRAAY,122423000000.0,3640597878.0,False,0.0,1743352000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+MRK,135202000000.0,2482022536.0,False,0.0,64168000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+MRVL,15865500000.0,862100000.0,False,0.0,5767300000.0,False,False,False,False,False,False,False,False,False,False,Technology
+MSFT,177236000000.0,7432377655.0,False,0.0,281724000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+MSI,22994000000.0,166554998.0,False,0.0,10817000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+MSTR,28841389000.0,267713485.0,False,0.0,463456000.0,False,False,False,False,False,False,False,False,False,False,Technology
+MTD,7996190000.0,20428445.0,False,0.0,3872361000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+MU,,1122466035.0,False,0.0,37378000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+NCLTY,636551000000.0,1130116190.0,False,0.0,928828000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+NDEKY,910000000.0,673659700.0,False,0.0,1013878000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+NDSN,8935000000.0,56186303.0,False,0.0,2689921000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+NEM,31277000000.0,1091262981.0,False,0.0,18682000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+NHYDY,69509000000.0,1964406631.0,False,0.0,203635000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+NJDCY,1540971000000.0,4585229388.0,False,0.0,2607813000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+NKE,30504000000.0,1189313611.0,False,0.0,46309000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+NOK,13387000000.0,5379095249.0,False,0.0,19220000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+NOW,,207481507.0,False,0.0,10984000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+NRILY,865335000000.0,573314079.0,False,0.0,764813000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+NSC,67727000000.0,224386617.0,False,0.0,12123000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+NSRGY,127120000000.0,2572715039.0,False,0.0,91720000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+NTAP,10710000000.0,199618386.0,False,0.0,6572000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+NTOIY,17405000000.0,1536548118.0,False,0.0,20635000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+NUE,23826000000.0,228858659.0,False,0.0,30734000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+NVDA,,24347000000.0,False,0.0,130497000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+NVO,381961000000.0,3368607341.0,False,0.0,290403000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+NVR,2952088000.0,2732735.0,False,0.0,10543571000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+NVS,109967000000.0,1918792119.0,False,0.0,51722000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+NVZMY,6907200000.0,411941947.0,False,0.0,3833500000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+NWS,,186776414.0,False,0.0,8452000000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+NWSA,,372519263.0,False,0.0,8452000000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+NXPI,40385000000.0,251674471.0,False,0.0,12614000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ODFL,179961000.0,209098439.0,False,0.0,5814810000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+OKTA,3211000000.0,168459019.0,False,0.0,2610000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+OMC,21515400000.0,192983572.0,False,0.0,15689100000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+OMRNY,507866000000.0,196894506.0,False,0.0,801753000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ON,,408973992.0,False,0.0,7082300000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ONC,3177745000.0,101807539.0,False,0.0,3810241000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+ORCL,382558000000.0,2850792605.0,False,0.0,57399000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ORKLY,66532000000.0,997277314.0,False,0.0,70656000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+ORLY,26753319000.0,844104092.0,False,0.0,16708479000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+OTIS,31832000000.0,389715851.0,False,0.0,14261000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+OTSKY,473391000000.0,1056279074.0,False,0.0,2329861000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+OXY,102722000000.0,985210434.0,False,0.0,26725000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+PAAS,,422047000.0,False,0.0,2818900000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+PAC,178573737000.0,42948585.0,False,0.0,33614374000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+PANW,,683982694.0,False,0.0,9221500000.0,False,False,False,False,False,False,False,False,False,False,Technology
+PCAR,56519200000.0,525204359.0,False,0.0,33663800000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+PCH,3987057000.0,77291016.0,False,0.0,1062076000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+PDD,,1419646462.0,False,0.0,393836097000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+PEP,170003000000.0,1367340122.0,False,0.0,91854000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+PFE,253553000000.0,5685707552.0,False,0.0,63627000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+PG,130384000000.0,2336733549.0,False,0.0,84284000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+PHM,,194916877.0,False,0.0,17946950000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+PKG,,89977067.0,False,0.0,8383300000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+PLD,123429071000.0,928867000.0,False,0.0,8201610000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+PNR,6711500000.0,163641880.0,False,0.0,4082800000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+PODD,4615000000.0,70346898.0,False,0.0,2071600000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+POOL,4366696000.0,37249484.0,False,0.0,5310953000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+PPG,23150000000.0,224400000.0,False,0.0,15845000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+PSO,4311000000.0,636393445.0,False,0.0,3552000000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+PSX,78510000000.0,402921135.0,False,0.0,143153000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+PWR,16540826000.0,149115887.0,False,0.0,23672795000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+Q,0.0,209433618.0,False,0.0,4335000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+QCOM,,1071000000.0,False,0.0,44284000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+RACE,11412798000.0,177505832.0,False,0.0,6676668000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+RAL,143400000.0,112805827.0,False,0.0,2154700000.0,False,False,False,False,False,False,False,False,False,False,Technology
+RBGLY,33272000000.0,3369354605.0,False,0.0,14169000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+RCRUY,418891000000.0,7080799810.0,False,0.0,3557478000000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+RDY,162568000000.0,832523765.0,False,0.0,325535000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+REGN,,103282318.0,False,0.0,14202000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+RELX,25851000000.0,1819219297.0,False,0.0,9434000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+RHHBY,135041000000.0,5517009376.0,False,0.0,62395000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+RIO,45764000000.0,1254003529.0,False,0.0,53658000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+RL,6478800000.0,38759382.0,False,0.0,7079000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+RMD,,145966294.0,False,0.0,5146327000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+ROK,14978000000.0,112273567.0,False,0.0,8264200000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+ROL,,481150554.0,False,0.0,3388708000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+ROP,30396200000.0,107637430.0,False,0.0,7039200000.0,False,False,False,False,False,False,False,False,False,False,Technology
+ROST,13579669000.0,325226266.0,False,0.0,21129219000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+RSG,51266000000.0,309563599.0,False,0.0,16032000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+RVTY,11789650000.0,113375621.0,False,0.0,2755026000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+RYAAY,,527443828.0,False,0.0,13948500000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+RYN,4266284000.0,153899831.0,False,0.0,1262997000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+SAP,,1164604232.0,False,0.0,34176000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+SAUHY,1027769000.0,1594508470.0,False,0.0,2503900000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+SBGSY,52437000000.0,2814177095.0,False,0.0,38153000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+SCCO,23253900000.0,819095460.0,False,0.0,11433400000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+SDVKY,154274000000.0,1254385923.0,False,0.0,122878000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+SDZNY,17553000000.0,430701660.0,False,0.0,10384000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+SGAPY,37850600000.0,1651282654.0,False,0.0,14146100000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+SGIOY,43764000000.0,1701953938.0,False,0.0,438268000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+SGPYY,,238849847.0,False,0.0,2332000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+SGSOY,13174000000.0,1935656360.0,False,0.0,6794000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+SHECY,50523000000.0,3746339776.0,False,0.0,2561249000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+SHW,43393000000.0,247893513.0,False,0.0,23098500000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+SHZHY,40633532000.0,1503222397.0,False,0.0,28662938000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+SITC,,52462340.0,False,0.0,277467000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+SKFRY,62105000000.0,426420244.0,False,0.0,98722000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+SLB,44752000000.0,1493923635.0,False,0.0,36289000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+SMCAY,15123000000.0,1265912140.0,False,0.0,792108000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+SMCI,,596971133.0,False,0.0,21972042000.0,False,False,False,False,False,False,False,False,False,False,Technology
+SMMNY,1655000000.0,2243111308.0,False,0.0,22363000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+SMNEY,9542000000.0,795535712.0,False,0.0,34465000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+SMNNY,,864654840.0,False,0.0,450993000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+SNA,,52007557.0,False,0.0,5108400000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+SNN,12273000000.0,423903661.0,False,0.0,5810000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+SNPS,,185748673.0,False,0.0,6127436000.0,False,False,False,False,False,False,False,False,False,False,Technology
+SNY,60371000000.0,2435976446.0,False,0.0,44286000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+SONVY,5857900000.0,298039920.0,False,0.0,3865400000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+SOTGY,19580369000.0,108900980.0,False,0.0,38294491000.0,False,False,False,False,False,False,False,False,False,False,Technology
+SOUHY,,896930894.0,False,0.0,5780000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+SQM,17729277000.0,142818904.0,False,0.0,4528761000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+SSDOY,1105081000000.0,399524700.0,False,0.0,990586000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+SSMXY,161829000000.0,623180031.0,False,0.0,508643000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+STE,8320781000.0,98147009.0,False,0.0,5459515000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+STLD,12334564000.0,146034859.0,False,0.0,17540390000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+STN,6658300000.0,114066995.0,False,0.0,7500000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+STX,,213558113.0,False,0.0,9097000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+SU,46584000000.0,1201266687.0,False,0.0,54881000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+SUI,29363800000.0,123436693.0,False,0.0,3200400000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+SW,53525000000.0,522186327.0,False,0.0,21109000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+SWKS,,148679767.0,False,0.0,4086900000.0,False,False,False,False,False,False,False,False,False,False,Technology
+SXYAY,21340700000.0,1604445150.0,False,0.0,11763100000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+SYK,50736000000.0,382423648.0,False,0.0,22595000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+SZKMY,2175897000000.0,482318616.0,False,0.0,5825161000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+T,525612000000.0,7089449495.0,False,0.0,122336000000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+TCOM,,653603432.0,False,0.0,53294000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+TECH,,155812701.0,False,0.0,1219635000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+TEL,21773000000.0,294189246.0,False,0.0,17262000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+TER,,156608303.0,False,0.0,2819880000.0,False,False,False,False,False,False,False,False,False,False,Technology
+TFII,10785956000.0,82287807.0,False,0.0,8396830000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+TGT,66868000000.0,454399148.0,False,0.0,106566000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+TJX,,1112938750.0,False,0.0,56360000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+TMICY,0.0,131850270.0,False,0.0,272638000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+TMO,121091000000.0,375708059.0,False,0.0,42879000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+TMSNY,2730798000.0,68984148.0,False,0.0,1044105000.0,False,False,False,False,False,False,False,False,False,False,Technology
+TOELY,0.0,916805542.0,False,0.0,2431568000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+TPL,906000.0,22979410.0,False,0.0,705823000.0,False,False,False,False,False,False,False,False,False,False,Energy
+TPR,11487600000.0,204649752.0,False,0.0,7010700000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+TRI,9939000000.0,444842487.0,False,0.0,7258000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+TRMB,,237920962.0,False,0.0,3683300000.0,False,False,False,False,False,False,False,False,False,False,Technology
+TRNO,3275678000.0,102861798.0,False,0.0,382621000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+TRUMY,,1475053073.0,False,0.0,1036171000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+TS,,519467488.0,False,0.0,12523934000.0,False,False,False,False,False,False,False,False,False,False,Energy
+TSCO,14261405000.0,528403595.0,False,0.0,14883231000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+TSLA,35124000000.0,3325819167.0,False,0.0,97690000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+TSM,3112371000000.0,5186523104.0,False,0.0,2894307700000.0,False,False,False,False,False,False,False,False,False,False,Technology
+TT,17491100000.0,221739004.0,False,0.0,19838200000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+TTD,624430000.0,440318931.0,False,0.0,2444831000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+TTNDY,5528547000.0,366172988.0,False,0.0,14621616000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+TTWO,14077900000.0,184778832.0,False,0.0,5633600000.0,False,False,False,False,False,False,False,False,False,False,Communication Services
+TWLO,3780171000.0,151612818.0,False,0.0,4458036000.0,False,False,False,False,False,False,False,False,False,False,Technology
+TXN,51184000000.0,908623020.0,False,0.0,15641000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+TYL,,43027728.0,False,0.0,2137803000.0,False,False,False,False,False,False,False,False,False,False,Technology
+UAL,115809000000.0,323737989.0,False,0.0,57063000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+UBER,35353000000.0,2077830381.0,False,0.0,43978000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+UCBJY,10119000000.0,379992422.0,False,0.0,6152000000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+UI,,60499655.0,False,0.0,2573545000.0,False,False,False,False,False,False,False,False,False,False,Technology
+UL,113512000000.0,2451887221.0,False,0.0,60761000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+ULTA,3846468000.0,44838364.0,False,0.0,11295654000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+UMC,204983469000.0,2511055669.0,False,0.0,232302584000.0,False,False,False,False,False,False,False,False,False,False,Technology
+UNICY,80553000000.0,3479869370.0,False,0.0,988981000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Defensive
+UNP,126294000000.0,593160889.0,False,0.0,24250000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+UPMMY,12700000000.0,527324046.0,False,0.0,10339000000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+UPS,87760000000.0,738990054.0,False,0.0,91070000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+VIPS,9115325000.0,415198210.0,False,0.0,108420832000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+VLO,39349000000.0,305009539.0,False,0.0,129881000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+VLTO,9631000000.0,248297345.0,False,0.0,5193000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+VMC,21712700000.0,132130905.0,False,0.0,7417700000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+VRSN,6980900000.0,92700000.0,False,0.0,1557400000.0,False,False,False,False,False,False,False,False,False,False,Technology
+VRT,10919400000.0,382338313.0,False,0.0,8011800000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+VRTX,3499000000.0,253718831.0,False,0.0,11020100000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+VWDRY,,2995525877.0,False,0.0,17295000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+WAB,15214000000.0,170957186.0,False,0.0,10387000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+WAT,,59534740.0,False,0.0,2958387000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+WCN,32885944000.0,256023511.0,False,0.0,8919591000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+WDAY,,217000000.0,False,0.0,8446000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+WDC,16730000000.0,341899281.0,False,0.0,9520000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+WELL,,686328043.0,False,0.0,7853618000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+WFAFY,,2270028256.0,False,0.0,45576000000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+WIT,585730000000.0,10472820522.0,False,0.0,890884000000.0,False,False,False,False,False,False,False,False,False,False,Technology
+WM,95186000000.0,402867051.0,False,0.0,22063000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+WPM,,454017886.0,False,0.0,1284639000.0,False,False,False,False,False,False,False,False,False,False,Basic Materials
+WSM,,121790333.0,False,0.0,7711541000.0,False,False,False,False,False,False,False,False,False,False,Consumer Cyclical
+WST,,71943412.0,False,0.0,2893200000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+WTKWY,14834000000.0,227413570.0,False,0.0,5916000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+WXXWY,12515898000.0,2045563627.0,False,0.0,18675371000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+WY,19678000000.0,720861000.0,False,0.0,7124000000.0,False,False,False,False,False,False,False,False,False,False,Real Estate
+XIACY,,4306122127.0,False,0.0,365906350000.0,False,False,False,False,False,False,False,False,False,False,Technology
+XOM,135909000000.0,4217000000.0,False,0.0,339247000000.0,False,False,False,False,False,False,False,False,False,False,Energy
+XYL,7161000000.0,243469063.0,False,0.0,8562000000.0,False,False,False,False,False,False,False,False,False,False,Industrials
+ZBH,24292900000.0,198181555.0,False,0.0,7678600000.0,False,False,False,False,False,False,False,False,False,False,Healthcare
+ZBRA,8165000000.0,50660242.0,False,0.0,4981000000.0,False,False,False,False,False,False,False,False,False,False,Technology

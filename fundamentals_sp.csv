@@ -1,0 +1,5 @@
+ticker,total_debt,shares_outstanding,is_fully_islamic,non_permissible_revenue,total_revenue,alcohol,pork,gambling,pornography,tobacco_vaping,recreational_cannabis,impermissible_advertising,impermissible_media,deferred_gold_silver,conventional_finance
+AAPL,100774000000.0,14776353000.0,False,0.0,416161000000.0,False,False,False,False,False,False,False,False,False,False
+MSFT,43151000000.0,7432378000.0,False,767000000.0,281724000000.0,False,False,False,False,False,False,False,False,False,False
+NVDA,8751000000.0,24347000000.0,False,1786000000.0,130497000000.0,False,False,False,False,False,False,False,False,False,False
+GOOGL,13770000000.0,5818000000.0,False,4482000000.0,350018000000.0,False,False,False,False,False,False,False,False,False,False
