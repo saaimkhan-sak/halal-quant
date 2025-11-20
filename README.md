@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 **Halal-Alpha** is a fully self-taught, end-to-end quantitative equity strategy designed to operate under **strict Shariah-compliant constraints**.  
 I built this project from scratch—without formal quant training—to learn how institutional quant platforms are engineered from data ingestion to portfolio construction to risk overlays.
@@ -20,38 +20,9 @@ This repository contains:
 - A **historical P&L simulation engine** with a volatility-targeting risk overlay  
 - Comprehensive **diagnostics & analytics** (Sharpe, DD, rank stability, exposures, turnover, holdings)
 
-The goal of this project is to demonstrate the problem-solving depth, technical ability, and research discipline required to build a robust quant framework suitable for real capital.
-
 ---
 
-## 📂 Project Structure
-halal-quant/
-│
-├── code/
-│   ├── data/                     # Data ingestion, ETL, feature engineering
-│   ├── signals/                  # ML model training, scoring, smoothing
-│   ├── screening/                # Shariah-compliant universe filters
-│   ├── trading/                  # Backtesting, PnL simulation, risk overlays
-│   └── common/                   # Shared utilities
-│
-├── data/
-│   ├── market/                   # Raw price data (gitignored)
-│   ├── derived/                  # Engineered features, signals, PnL (gitignored)
-│   └── compliance/               # Shariah screening inputs
-│
-├── models/                       # XGBoost models (gitignored)
-│
-├── figures/                      # Diagnostic plots
-│
-├── reports/                      # Notebooks/reports if added later
-│
-└── README.md
-
-> **Note**: Large data files and models are intentionally excluded from GitHub via `.gitignore` to stay within GitHub limits and keep the repo clean.
-
----
-
-## ⚙️ Technical Capabilities
+## Technical Capabilities
 
 ### **1. Shariah-Compliant Universe Construction**
 - ETFs: SPUS, HLAL, SPSK, UMMA, etc.
@@ -78,18 +49,18 @@ to eliminate **lookahead bias**.
 
 ---
 
-## 📈 **3. Machine Learning Model**
+## **3. Machine Learning Model**
 - Algorithm: **XGBoost Ranker / Regressor**  
 - Objective: predict **relative forward 5-day returns** (cross-sectional)  
 - Input features: 36 carefully chosen numeric features  
 - Trained on rolling windows to avoid regime overfitting  
 - Output stored as: signals_history.csv, signals_history_smooth.csv  (10-day rolling mean)
 
-Rank stability analysis shows **daily rank correlation ~0.98**, indicating a slow-moving, stable signal—ideal for long-horizon portfolios.
+Rank stability analysis shows **daily rank correlation ~0.98**, indicating a slow-moving, stable signal which is ideal for long-horizon portfolios.
 
 ---
 
-## 🧮 **4. Portfolio Construction**
+## **4. Portfolio Construction**
 
 Monthly (20-day) rebalancing:
 
@@ -104,7 +75,7 @@ Sector exposure plots show broad diversification and smooth transitions across t
 
 ---
 
-## 📊 **5. Backtesting & PnL Simulation**
+## **5. Backtesting & PnL Simulation**
 
 Located in `code/trading/simulate_pnl_from_weights.py`:
 
@@ -122,7 +93,7 @@ Located in `code/trading/simulate_pnl_from_weights.py`:
 
 ---
 
-## 📉 **6. Strategy Performance (2016–2025)**
+## **6. Strategy Performance (2016–2025)**
 
 Using the “production-style” variant:
 - TOP150  
@@ -143,7 +114,7 @@ Earlier variants (e.g., no overlay, weekly rebalancing) show higher return (~16�
 
 ---
 
-## 📊 Diagnostics Included
+## Diagnostics Included
 
 - Equity curve + drawdown  
 - Rolling Sharpe + rolling vol  
@@ -158,37 +129,22 @@ These tools helped debug problems (removing a hidden lookahead issue, fixing NaN
 
 ---
 
-## 🧠 Philosophy and Problem-Solving Approach
-
-While building Halal-Alpha, I treated each step as if I were the only quant and the only engineer on the team:
-
-- **Everything must be reproducible**  
-- **Every component must make sense economically and statistically**  
-- **No step can rely on “magic” or black-box assumptions**  
-- **If a metric looks too good, assume it’s a bug until proven real**  
-- **If a model works, understand *why* it works**  
-
-This project was built entirely self-taught, outside any formal quant internship, and reflects the mindset I would bring to an institutional systematic team.
-
----
-
 ## 🔗 **Code Availability**
 
 All reproducible source code for Halal-Alpha is hosted here:
 
-👉 **https://github.com/saaimkhan-sak/halal-quant**
+**https://github.com/saaimkhan-sak/halal-quant**
 
 Large datasets and models are excluded from GitHub due to size limits but can be regenerated using the included pipeline scripts.
 
 ---
 
-## 📬 Contact
+## Contact
 
 If you're interested in discussing this project, collaborating, or exploring halal-compliant alpha research, feel free to reach out.
 
 **Email:** skhan@hms.harvard.edu  
-**GitHub:** https://github.com/saaimkhan-sak  
-**LinkedIn:** https://www.linkedin.com/in/saaim-khan-153953164/
+**GitHub:** https://github.com/saaimkhan-sak
 
 ---
 
